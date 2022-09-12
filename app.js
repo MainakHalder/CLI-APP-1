@@ -38,4 +38,4 @@ for(var i=0; i<questions.length; i++){
     var current = questions[i];
     play(current.question,current.answer);
   }
-console.log("total score"+ score);
+console.log("total score= "+ score);
